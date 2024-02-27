@@ -1,0 +1,8 @@
+[submodule "UBOS-template-BAB-ui"]
+	path = UBOS-template-BAB-ui
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-BAB-ui.git
+	branch = main
+[submodule "UBOS-template-BAB-nr"]
+	path = UBOS-template-BAB-nr
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-BAB-nr.git
+branch = origin
